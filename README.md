@@ -29,7 +29,7 @@ Support
 
 For questions or assistance, please contact:
 
-Email: your-support-email@gmail.com
+Email: trendloot.support@gmail.com
 
 License
 
